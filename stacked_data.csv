@@ -1,0 +1,20 @@
+term,type,termtotal,percent
+Seepage,survey,5,56
+Seepage,pubs,4,44
+Steephead,survey,2,67
+Steephead,pubs,1,33
+Sphagnum,survey,4,67
+Sphagnum,pubs,2,33
+Sand,survey,1,33
+Sand,pubs,2,67
+Underbank,survey,1,33
+Underbank,pubs,2,67
+Small stream,survey,5,56
+Small stream,pubs,3,33
+Small stream,citsci,1,11
+Forested,survey,6,46
+Forested,pubs,4,31
+Forested,citsci,3,23
+Sandhill,survey,7,37
+Sandhill,pubs,4,21
+Sandhill,citsci,8,42
